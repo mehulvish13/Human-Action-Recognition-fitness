@@ -1,2 +1,1 @@
-# MinorProject2_6thSem
-A computer vision based project that enables touchless mouse control using hand gestures captured through a webcam. It uses real time hand landmark detection to recognize gestures and perform cursor movement, clicks, and scrolling, providing an intuitive and accessible alternative to traditional input devices.
+This project implements a Human Action Recognition system for fitness applications using computer vision and machine learning. It detects and classifies workout movements in real time from video input, enabling activity tracking, exercise monitoring, and basic form analysis to support smart fitness applications.
